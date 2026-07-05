@@ -8,7 +8,7 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on the Di
 
 📊 Dashboard Preview
 
-
+![Disney+ Data Analysis Dashboard](Figure_1.png)
 
 
 🚀 Features
@@ -56,6 +56,7 @@ Content Rating
 Duration
 
 📁 Project Structure
+
 Disney-Data-Analysis/
 │── disney_shows.csv
 │── hotstarfinal.py
